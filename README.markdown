@@ -1,3 +1,5 @@
+This is a fork by Jonathan Peppers providing Xamarin.iOS and Xamarin.Android projects. If you just want the binaries, check the releases section. I will try to keep this fork updated as time goes on.
+
 This is the master repository for Ninject, the lightweight and lightning-fast .NET dependency injection framework. Ninject is currently in version 2.2.
 
 _If you're reading blog posts or books from before 2010, they're likely to be regarding version 1, which has [some key improvements, summarised in the wiki](https://github.com/ninject/ninject/wiki/Changes-in-Ninject-2)_
